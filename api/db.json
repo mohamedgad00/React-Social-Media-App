@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "createdAt": "2025-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "et ea vero quia laudantium autem",
+      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi",
+      "createdAt": "2025-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "asperiores ea ipsam voluptatibus modi minima quia sintt",
+      "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt",
+      "createdAt": "2025-08-05T12:00:00.000Z"
+    },
+    {
+      "id": "e50c",
+      "title": "test",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis culpa recusandae blanditiis, tempore quidem, exercitationem aliquam .",
+      "createdAt": "2025-08-05T15:48:24.745Z"
+    },
+    {
+      "id": "ee19",
+      "title": "React",
+      "body": "Hello ITI .... !",
+      "createdAt": "2025-08-05T17:44:40.017Z"
+    }
+  ]
+}
