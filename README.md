@@ -37,7 +37,7 @@ Before running this project, make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/final-project.git
+git clone https://github.com/mohamedgad00/React-Social-Media-App.git
 cd final-project
 ```
 
